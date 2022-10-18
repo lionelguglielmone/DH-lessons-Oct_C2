@@ -10,4 +10,4 @@ Requirements
               
               * SDK: corretto-1.8 Amazon Corretto Version 1.8.0
               
-              * Run with IntelliJ Community
+              * Run with IntelliJ IDEA Community Edition

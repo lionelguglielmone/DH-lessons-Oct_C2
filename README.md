@@ -6,8 +6,10 @@ Description
               
 Requirements
 
-              * JAVA 8
+              * Language: JAVA 8
               
-              * SDK: corretto-1.8 Amazon Corretto Version 1.8.0
+              * JDK: corretto-1.8 Amazon Corretto Version 1.8.0
               
-              * Run with IntelliJ IDEA Community Edition
+              * Build System: IntelliJ
+              
+Run with IntelliJ IDEA Community Edition

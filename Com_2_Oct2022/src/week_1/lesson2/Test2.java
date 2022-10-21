@@ -8,6 +8,8 @@ public class Test2 {
         //numero primo -> es unicamente divisible por si mismo y 1
         // 4 -> 4/4=1 ; 4/1=4 ; 4/2 = 2 -> no es primo
 
+
+
         //5 -> es primo
         /*
 

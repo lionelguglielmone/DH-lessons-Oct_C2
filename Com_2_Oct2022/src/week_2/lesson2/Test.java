@@ -19,7 +19,7 @@ public class Test {
         juan.incrementarDeuda(1000.0);
         System.out.println("Juan adeuda: " + juan.getDeuda());
 
-        
+
 
     }
 }
